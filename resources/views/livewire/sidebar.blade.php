@@ -29,6 +29,6 @@
         <li> <a href="#">کامنت ها</a> </li>
     </ul>
     <ul class="list-unstyled CTAs">
-        <li> <a href="#" class="download">Subscribe</a> </li>
+        <li> <a href="#" class="download">ایجاد تسک</a> </li>
     </ul>
 </nav>
